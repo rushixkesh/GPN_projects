@@ -11,9 +11,13 @@ The smart stick for the blind as the name suggests is a device for the visually 
 HARDWARE REQUIREMENTS:
 
 Arduino uno
+
 Ultrasonic sensor
+
 Buzzer
+
 Vibrator motor
+
 Jumper wires
 
 CIRCUIT CONNECTION :
