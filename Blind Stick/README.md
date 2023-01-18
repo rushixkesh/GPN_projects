@@ -19,17 +19,26 @@ Jumper wires
 CIRCUIT CONNECTION :
 
 Ultrasonic VCC to Arduino 5v
+
 Ultrasonic GND to Arduino GND
+
 Ultrasonic TRIG to Arduino pin 13
+
 Ultrasonic ECHO to Arduino pin 12
+
 Buzzer +ve to Arduino pin 6
+
 Buzzer -ve to Arduino GND
+
 Vibrator motor pin 1 to Arduino pin 7
+
 Vibrator motor pin 2 to Arduino GND
 
 ADVANTAGES:
 
 Obstacle detection with indication support.
+
 Simple to use and low cost.
+
 Low power consumption
  
