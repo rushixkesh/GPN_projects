@@ -36,4 +36,4 @@ The smart stick for the blind as the name suggests is a device for the visually 
 - Simple to use and low cost.
 - Low power consumption
  
- @rushixkesh 2022
+ ** @rushixkesh 2022
