@@ -16,6 +16,9 @@ The smart stick for the blind as the name suggests is a device for the visually 
 - Vibrator motor
 - Jumper wires
 
+## CIRCUIT
+/circuit/circuit.png
+
 ## CIRCUIT CONNECTION 
 
 - Ultrasonic VCC to Arduino 5v
