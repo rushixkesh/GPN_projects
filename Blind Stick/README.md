@@ -17,7 +17,7 @@ The smart stick for the blind as the name suggests is a device for the visually 
 - Jumper wires
 
 ## CIRCUIT
-/circuit/circuit.png
+/Blind Stick/circuit/circuit.png
 
 ## CIRCUIT CONNECTION 
 
