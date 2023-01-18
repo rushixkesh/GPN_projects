@@ -1,4 +1,4 @@
-INTRODUCTION:
+**INTRODUCTION:**
 
 Currently there are thousands of blind people all over the globe. These include people from low sight seeing to complete lost of visual. They find it very difficult while crossing the road or reaching to their respective destination with the help any other individual. The traditional stick cannot help to detect the obstacles in front or the potholes in the way. It is outdated. Hence there is a need to update it using today's technology.
 
