@@ -23,12 +23,12 @@ we will give input using blynk app by clicking a button then esp will turn on/of
  Bynk IoT or Arduino IoT cloud
 
 ## CIRCUIT
-![/Home Automation/src/circuit.png]
+![/Home Automation/src/circuit.png](https://github.com/rushixkesh/GPN_projects/blob/main/Home%20Automation/assets/circuit.png)
 
 ## GUI
-![/Home Automation/src/blynk.png] 
+![/Home Automation/src/blynk.png](https://github.com/rushixkesh/GPN_projects/blob/main/Home%20Automation/assets/blynk.png)
 
 ## WORKING
-![/Home Automation/src/working.mkv] 
+![/Home Automation/src/working.mkv](https://github.com/rushixkesh/GPN_projects/blob/main/Home%20Automation/assets/working.mkv)
 
  ### @rushixkesh 2023 👾:
