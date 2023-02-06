@@ -29,6 +29,8 @@ we will give input using blynk app by clicking a button then esp will turn on/of
 ![/Home Automation/src/blynk.png](https://github.com/rushixkesh/GPN_projects/blob/main/Home%20Automation/assets/blynk.png)
 
 ## WORKING
-![/Home Automation/src/working.mp4](https://github.com/rushixkesh/GPN_projects/blob/main/Home%20Automation/assets/working.mp4)
+
+https://user-images.githubusercontent.com/81320028/216952439-113140f6-eca4-4d40-84e4-e33ac9b8d482.mp4
+
 
  ### @rushixkesh 2023 👾:
