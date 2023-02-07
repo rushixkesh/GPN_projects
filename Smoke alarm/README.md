@@ -16,14 +16,20 @@ IF input is above a set limit then it will turn on the buzzer
 - Jumper wires
 
 ## CIRCUIT
-![/Smoke alarm/circuit/circuit.png](https://github.com/rushixkesh/GPN_projects/blob/main/Smoke%20alarm/circuit/circuit.png)
+![/Smoke alarm/circuit/circuit.png](https://github.com/rushixkesh/GPN_projects/blob/main/Smoke%20alarm/assets/circuit.png)
+
+## CONNECTION
+- A5 - B1
+- H2 - GND
+- TERMINAL 2 - GND
+- A1 - vin
+- H1 - vin
+- A2 - vin
 
 ## WORKING
-
-## ADVANTAGES
-
-- Obstacle detection with indication support.
-- Simple to use and low cost.
-- Low power consumption
  
- ### @rushixkesh 2021 👾:
+
+https://user-images.githubusercontent.com/81320028/217335105-fd7ab51e-3400-4685-a419-008c99383989.mp4
+
+
+ ### @rushixkesh👾:
